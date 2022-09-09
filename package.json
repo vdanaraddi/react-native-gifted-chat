@@ -91,7 +91,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn lint:fix && yarn prettier"
+      "pre-commit": "yarn lint:fix && yarn prettier && yarn build"
     }
   }
 }
