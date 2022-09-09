@@ -6698,10 +6698,10 @@ react-native-parsed-text@0.0.22:
   dependencies:
     prop-types "^15.7.x"
 
-react-native-safe-area-context@4.2.4:
-  version "4.2.4"
-  resolved "https://registry.npmjs.org/react-native-safe-area-context/-/react-native-safe-area-context-4.2.4.tgz"
-  integrity sha512-OOX+W2G4YYufvryonn6Kw6YnyT8ZThkxPHZBD04NLHaZmicUaaDVII/PZ3M5fD1o5N62+T+8K4bCS5Un2ggvkA==
+react-native-safe-area-context@3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-3.1.4.tgz#9b7f883a5ae8da6218d17467a350434005893602"
+  integrity sha512-bXx3hqz4LovFoMnJIRGIWL2oJ/PHadXviBKvgZV9yNErtURQLJSn0yfQytVtiqslhaBMZOJwH4R6HiClyofvBg==
 
 react-native-typing-animation@0.1.7:
   version "0.1.7"
